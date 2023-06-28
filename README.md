@@ -37,4 +37,4 @@ That’s it! You now have a Docker Swarm setup running with k6 test script.
 
 
 For a better understanding and changing this project according to you please refer to this blog based on same:-
-https://blog.nashtechglobal.com/wp-admin/post.php?post=12530&action=edit
+https://blog.nashtechglobal.com/scaling-k6-tests-with-docker-swarm/
